@@ -229,7 +229,169 @@ publications:
         link: "#"
         authors:
         conference:
+        
+      - title: "Jinxing Li, Chuhao Zhou, etc. Multi-view Instance Attention Fusion Network for Classification [J]. Information Fusion, 2023. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
 
+      - title: "Jinxing Li, Shuhang Gu, Guangming Lu, Yong Xu, David Zhang. Layer-Output Guided Complementary Attention Learning for Image Defocus Blur Detection [J]. IEEE Transactions on Image Processing, 2021. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+        
+      - title: "Jinxing Li, Bob Zhang, Guangming Lu, Yong Xu, Feng Wu, David Zhang. Harmonization Shared Auto-Encoder Gaussian Process Latent Variable Model with Relaxed Hamming Distance [J]. IEEE Transactions on Neural Networks and Learning Systems, 2020. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+        
+      - title: "Jinxing Li, Xiaobao Guo, Guangming Lu, et al. DRPL: Deep Regression Pair Learning for Multi-Focus Image Fusion [J]. IEEE Transactions on Image Processing, 2020. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+        
+      - title: "Jinxing Li, Bob Zhang, Guangming Lu, Jane You, Yong Xu, Feng Wu, David Zhang. Relaxed Asymmetric Deep Hashing Learning: Point-to-Angle Matching [J]. IEEE Transactions on Neural Networks and Learning Systems, 2019. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+        
+      - title: "Jinxing Li, Guangming Lu, et al. Shared Linear Encoder Based Multi-Kernel Gaussian Process Latent Variable Model for Visual Classification [J]. IEEE Transactions on Cybernetics, 2019. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+        
+      - title: "Jinxing Li, Bob Zhang, Guangming Lu, and David Zhang. Visual Classification with Multi-Kernel Shared Gaussian Process Latent Variable Model [J]. IEEE Transactions on Cybernetics, 2018. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+        
+      - title: "Jinxing Li, Bob Zhang, and David Zhang. Shared Auto-encoder Gaussian Process Latent Variable Model for Visual Classification [J]. IEEE Transactions on Neural Networks and Learning Systems, 2017. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+        
+      - title: "Jinxing Li, Guangming Lu, Yong Xu, Bob Zhang, and David Zhang. Asymmetric Gaussian Process Multi-view Learning for Visual Classification [J]. Information Fusion, 2020. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Jinxing Li, Bob Zhang, Guangming Lu, and David Zhang. Generative Multi-view and Multi-feature Learning for Classification [J]. Information Fusion, 2018. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Mu Li, Youneng Bao, Xiaohang Sui, Jinxing Li (Corresponding Author), et al. Learning Content-Weighted Pseudocylindrical Representation for 360 Image Compression [J]. IEEE Transactions on Image Processing, 2024. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Chuhao Zhou, Yuzhe Zhou, Tingting Ren, Huafeng Li, Jinxing Li (Corresponding Author), Guangming Lu. Hierarchical disturbance and Group Inference for video-based visible-infrared person re-identification [J]. Information Fusion, 2024. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Yijing Dai, Yingjian Li, Dongpeng Chen, Jinxing Li (Corresponding Author), Guangming Lu. Multimodal Decoupled Distillation Graph Neural Network for Emotion Recognition in Conversation [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2024. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Yu Gao, Xutao Zheng, Jinxing Li (Corresponding Author), et al. Disentanglement Learning With Adaptive Centroid Alignment for Multiple Target Domains Fault Diagnosis [J]. IEEE Transactions on Industrial Informatics, 2024. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Huafeng Li, Ming Yuan, Jinxing Li (Corresponding Author), et al. Focus Affinity Perception and Super-Resolution Embedding for Multifocus Image Fusion [J]. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Shuang Li, Fan Li, Jinxing Li* (Correspoonding Author), etc. Logical Relation Inference and Multiview Information Interaction for Domain Adaptation Person Re-Identification [J]. IEEE Transactions on Neural Networks and Learning Systems, 2023. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Jiayu Xu, Ailiang Lin, Jinxing Li (Corresponding Author), Guangming Lu. Text Position-Aware Pixel Aggregation Network with Adaptive Gaussian Threshold: Detecting Text in the Wild [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Huafeng Li, Junzhi Zhao, Jinxing Li (Corresponding Author), etc. Feature dynamic alignment and refinement for infrared-visible image fusion: Translation robust fusion [J]. Information Fusion, 2023. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Mu Li, Kai Zhang, Jinxing Li (Corresponding Author), et al. Learning Context-based Nonlocal Entropy Modeling for Image Compression [J]. IEEE Transactions on Neural Networks and Learning Systems, 2021. (JCR Q1, IF: 8.793)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Mu Li, Jinxing Li (Corresponding Author), et al. End-to-end optimized 360 Image Compression. IEEE Transactions on Image Processing, 2022. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Qing Cai, Jinxing Li (Corresponding Author), et al. TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution [J]. IEEE Transactions on Image Processing, 2022. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Qing Cai, Yiming Qian, Sanping Zhou, Jinxing Li (Corresponding Author), et al. AVLSM: Adaptive Variational Level Set Model for Image Segmentation in the Presence of Severe Intensity Inhomogeneity and High Noise [J]. IEEE Transactions on Image Processing, 2021. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Mengzhao Wang, Huafeng Li, Yafei Zhang, Jinxing Li (Corresponding Author), et al. Dual-task Mutual Reinforcing Embedded Joint Video Paragraph Retrieval and Grounding [J]. IEEE Transactions on Multimedia, 2024. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Yu Gao, Zhanpei Zhang, Bingquan Chen, Jinxing Li (Corresponding Author), et al. Time-and Frequency-domain Fusion for Source-free Adaptation Fault Diagnosis [J]. Information Fusion, 2025. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+      - title: "Dongming Li, Yingjian Li, Xiao Ma, Jinxing Li (Corresponding Author), Guangming Lu. Triple-stream Siamese Segmentation Network for Printed Label Defect Detection [J]. IEEE Transactions on Instrumentation and Measurement, 2024. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+
+    intro3: |
+      Seleted Conference Papers
+    papers3:
+      - title: "Rui Li, Tingting Ren, Jie Wen, Jinxing Li (Corresponding Author). Optimal Transport-based Labor-free Text Prompt Modeling for Sketch Re-identification [C]. NeurIPS, 2024. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+      - title: "Rui Li, Yishu Liu, Huafeng Li, Jinxing Li, Guangming Lu. Prototype-Guided Dual-Transformer Reasoning for Video Individual Counting [C]. ACM Multimedia, 2024. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+      - title: "Chuhao Zhou, Jinxing Li (Corresponding Author), etc. Video-based Visible-Infrared Person Re-Identification via Style Disturbance Defense and Dual Interaction [C]. ACM Multimedia, 2023. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+      - title: "Xinyu Lin, Jinxing Li (Corresponding Author), et al. Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification [C]. CVPR, 2022. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+      - title: "Jinxing Li, Hongwei Yong, Feng Wu, and Mu Li. Online Multi-view Subspace Learning with Mixed Noise [C]. ACM Multimedia, 2020. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+      - title: "Jinxing Li, Bob Zhang, Guangming Lu, and David Zhang. Shared Linear Encoder-based Gaussian Process Latent Variable Model for Visual Classification [C]. ACM Multimedia, 2018. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+      - title: "Jinxing Li, Hongwei Yong, Bob Zhang, Mu Li, Lei Zhang, and David Zhang. A Probabilistic Hierarchical Model for Multi-view and Multi-feature Classification [C]. AAAI, 2018. (CCF A, Oral)"
+        link: "#"
+        authors: 
+        conference:
 
 
     
