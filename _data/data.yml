@@ -130,7 +130,7 @@ experiences:
 certifications:
       title: Projects
       intro: >
-         18 projects led, including both government-funded (vertical) 
+         18 projects was led, including both government-funded (vertical) 
          and industry-funded (horizontal) projects, with a total funding exceeding 15 million RMB.
       list:
         - name: Person in Charge
@@ -138,22 +138,12 @@ certifications:
           end: 
           organization: General Program of the National Natural Science Foundation of China
           credentialid: 
-          credentialurl: 
+          credentialurl: #
           credentialname: 500,000 RMB
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Research on Intelligent Perception of Multimodal In-vitro Diagnostic Information and Continuous Health Computing
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            (多模态体外诊察信息智能感知及连续健康计算研究)
         - name: Git learning
           start: 2019
           end:
