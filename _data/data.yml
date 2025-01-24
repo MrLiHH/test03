@@ -1,11 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-website:
-  - name: Google Scholar
-    url: "https://github.com/MrLiHH/test03/blob/master/_data/lijinxing.html"
-  - name: Homepage in Chinese
-    url: "https://faculty.hitsz.edu.cn/lijinxing"
 
 sidebar:
     position: right # position of the sidebar : left or right
@@ -66,6 +61,7 @@ career-profile:
     title: About Me
     summary: |
       Jinxing Li is a Professor with the Harbin Institute of Technology, Shenzhen, China.
+      [Google Scholar](https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN) [Homepage in Chinese](https://faculty.hitsz.edu.cn/lijinxing)
 
       Focusing on key research areas such as pattern recognition and image processing, 
       he has proposed a series of new theories, models, and methods.
