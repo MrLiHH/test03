@@ -10,15 +10,15 @@ sidebar:
     # Profile information
     name: Jinxing Li
     tagline: Associate Professor, Doctoral Supervisor
-    area: The Chinese University of Hong Kong, Shenzhen
+    area: Harbin Institute of Technology, Shenzhen, China
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: lijinxing158@gmail.com or lijinxing@cuhk.edu.cn
-    phone: 
+    email: lijinxing158@gmail.com or
+    phone:
     timezone: 
     citizenship:
-    website: Google Scholar
+    website: 
     linkedin: 
     xing: 
     github:
@@ -44,7 +44,10 @@ career-profile:
       Focusing on key research areas such as pattern recognition and image processing, 
       he proposes a series of new theories, models, and method. 
 
-      He has published a total of 45 papers in Zone 1 journals of the Chinese Academy of Sciences and CCF A-class conferences (37 as first or corresponding author: 23 in Zone 1 journals and 14 in CCF A conferences), including 8 in IEEE Transactions on Image Processing (TIP), 7 in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 4 in IEEE Transactions on Cybernetics (TCYB), 4 in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 1 in IEEE Transactions on Industrial Informatics (TII), 1 in IEEE Transactions on Systems, Man, and Cybernetics (TSMC), 5 in Information Fusion, 1 in CVPR, 1 in NeurIPS, 4 in ACM Multimedia (ACM MM), 2 in AAAI, and 1 English monograph. In addition, he has led 17 scientific research projects, including a General Program of the National Natural Science Foundation of China.
+      He has published a total of 45 papers in Q1 journals of the Chinese Academy of Sciences 
+      and CCF A conferences (37 as first or corresponding author: 23 in Zone 1 journals and 14 
+      in CCF A conferences), including 8 in TIP, 7 in TNNLS, 4 in TCYB, 4 in TCSVT, 1 in TII, 1 in TSMC
+      , 5 in Information Fusion, 1 in CVPR, 1 in NeurIPS, 4 in ACM MM, 2 in AAAI. And 1 English monograph has been published. In addition, he has led 17 scientific research projects, including a General Program of the National Natural Science Foundation of China.
       
 education:
     title: Education/Experience
@@ -53,23 +56,27 @@ education:
         university: Computer Science, Harbin Institute of Technology, Shenzhen
         time: 2021.04 - Present
         details: |
-      - degree: Postdoctoral
+      - degree: Postdoc
         university: Science and Engineering, The Chinese University of Hong Kong, Shenzhen
         time: 2019.05 - 2021.02
         details: |
-      - degree: Doctor
+      - degree: TA
+        university: Science and Engineering, The Chinese University of Hong Kong, Shenzhen
+        time: 2019.03 - 2019.05
+        details: |
+      - degree: PhD
         university: Computer Science, The Hong Kong Polytechnic University, Hong Kong
         time: 2015.07 - 2019.03
         details: |
-      - degree: Master
+      - degree: MSc
         university: Automation, Chongqing University, Chongqing
         time: 2012.09 - 2015.06
         details: |
-      - degree: Bachelor
+      - degree: BSc
         university: Automation, Hangzhou Dianzi University, Hangzhou
         time: 2009.07 - 2012.06
         details: |
-      - degree: Bachelor
+      - degree: BSc
         university: Science, Hangzhou Dianzi University, Hangzhou
         time: 2008.09 - 2009.06
         details: |
@@ -130,13 +137,13 @@ certifications:
       title: Projects
       intro: >
          18 projects were led, including both government-funded (vertical) 
-         and industry-funded (horizontal) projects, with a total funding exceeding 15 million RMB.
+         and industry-funded (horizontal) projects.
       list:
         - name: Responsible Person
           start: 2023
           end: 
           organization: General Program of the National Natural Science Foundation of China 
-          credentialid: 530,000 RMB
+          credentialid: 
           credentialurl: 
           credentialname: 
           details: |
@@ -146,7 +153,7 @@ certifications:
           start: 2020
           end:
           organization: Youth Science Fund Project of the National Natural Science Foundation of China 
-          credentialid: 260,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
@@ -156,7 +163,7 @@ certifications:
           start: 2020
           end:
           organization: Shenzhen Major Science and Technology Projects
-          credentialid: 10,000,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
@@ -166,7 +173,7 @@ certifications:
           start: 2020
           end:
           organization: Shenzhen Science and Technology Program - Stable Support Plan
-          credentialid: 300,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
@@ -176,7 +183,7 @@ certifications:
           start: 2020
           end:
           organization: Shenzhen Research Startup Funding for High-End Talents
-          credentialid: 3,000,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
@@ -186,7 +193,7 @@ certifications:
           start: 2020
           end:
           organization: TaiShen Innovation (Shenzhen) Technology Investment Co., Ltd.
-          credentialid: 1,800,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
@@ -197,7 +204,7 @@ certifications:
           start: 2020
           end:
           organization: HBIS GROUP CO., LTD. 
-          credentialid: 1,500,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
@@ -214,12 +221,12 @@ publications:
         conference: "Springer-Higher Education Press, 2022"
         
     intro2: |
-      50+ published papers, including 47 papers in CCF A-class conferences or Zone 1 SCI journals of the Chinese Academy of Sciences.
+      50+ published papers, including 47 papers in CCF A conferences or Q1 SCI journals of the Chinese Academy of Sciences.
     papers2:
       - title: "From Global to Local: Multi-Patch and Multi-Scale Contrastive Similarity Learning for Unsupervised Defocus Blur Detection [J]."
         link: "#"
         authors: Jinxing Li, Beicheng Liang.
-        conference: "IEEE Transactions on Image Processing, 2023. (CAS Zone 1 journals, JCR Q1)"
+        conference: "IEEE Transactions on Image Processing, 2023. (JCR Q1)"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
