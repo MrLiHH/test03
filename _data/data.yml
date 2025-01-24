@@ -17,7 +17,7 @@ sidebar:
     phone: 
     timezone: 
     citizenship:
-    website: [Google Scholar], [Homepage in Chinese]
+    website: [Google Scholar]
     linkedin: 
     xing: 
     github: ...
@@ -66,13 +66,10 @@ career-profile:
       he has proposed a series of new theories, models, and methods.
 
       
-website1:
+website:
   name: "[Google Scholar]"
   url: "https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN"
 
-website2:
-  name: "[Homepage in Chinese]"
-  url: "https://faculty.hitsz.edu.cn/lijinxing"
       
 education:
     title: Education
@@ -103,8 +100,8 @@ education:
 experiences:
     title: Education/Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role: Associate Professor
+        time: 2021.04 - Present
         company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
