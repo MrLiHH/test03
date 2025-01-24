@@ -58,17 +58,31 @@ education:
         university: University of London
         time: 2011 - 2012
         details: |
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Associate Professor
+        university: Computer Science, Harbin Institute of Technology, Shenzhen
+        time: 2021.04 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Postdoctoral
+        university: Science and Engineering, The Chinese University of Hong Kong, Shenzhen
+        time: 2019.05 - 2021.02
+        details: |
+      - degree: Doctor
+        university: Computer Science, The Hong Kong Polytechnic University, Hong Kong
+        time: 2015.07 - 2019.03
+        details: |
+      - degree: Master
+        university: Automation, Chongqing University, Chongqing
+        time: 2012.09 - 2015.06
+        details: |
+      - degree: Bachelor
+        university: Automation, Hangzhou Dianzi University, Hangzhou
+        time: 2009.07 - 2012.06
+        details: |
+      - degree: Bachelor
+        university: Science, Hangzhou Dianzi University, Hangzhou
+        time: 2008.09 - 2009.06
+        details: |
+
 
 experiences:
     title: Education/Experience
