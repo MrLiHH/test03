@@ -209,10 +209,12 @@ publications:
     intro: |
       1 published monograph
     papers:
-      - title: "Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. Springer-Higher Education Press, 2022"
+      - title: "Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. "
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Springer-Higher Education Press, 2022
+        conference:
+    intro: |
+      1 published monograph
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
