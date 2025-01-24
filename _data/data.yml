@@ -9,7 +9,8 @@ sidebar:
 
     # Profile information
     name: Jinxing Li
-    tagline: Full Stack Developer
+    tagline: Professor, Doctoral Supervisor
+    tagline: Professor, Doctoral Supervisor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -67,6 +68,9 @@ career-profile:
       # Donec quam felis, ultricies nec, pellentesque eu.
       # Second paragraph if required.
       Wenjie Pei is a Professor with the Harbin Institute of Technology, Shenzhen, China.
+
+      Focusing on key research areas such as pattern recognition and image processing, 
+      he has proposed a series of new theories, models, and methods.
 
       
 education:
