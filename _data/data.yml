@@ -85,23 +85,23 @@ oss:
     title: Research Interests
     intro: 
     contributions:
-      - title: Pattern Recognition
+      - title: Pattern Recognition; Machine Learning; Deep Learning; Feature Fusion; Hash Learning
         link: 
         tagline:
 
-      - title: Machine Learning
+      - title: 
         link: 
         tagline: 
 
-      - title: Deep Learning
+      - title: 
         link: 
         tagline: 
 
-      - title: Feature Fusion
+      - title: 
         link: 
         tagline:
         
-      - title: Hash Learning
+      - title:
         link: 
         tagline:
         
@@ -116,7 +116,7 @@ experiences:
         time: 2019.05 - 2021.02
         company: Science and Engineering, The Chinese University of Hong Kong, Shenzhen
         details: |
-       - role: TA
+      - role: TA
         time: 2019.03 - 2019.05
         company: Science and Engineering, The Chinese University of Hong Kong, Shenzhen
         details: |
