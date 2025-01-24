@@ -209,7 +209,7 @@ publications:
     intro: |
       1 published monograph
     papers:
-      - title: [1] Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. Springer-Higher Education Press, 2022
+      - title: "Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. Springer-Higher Education Press, 2022"
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
