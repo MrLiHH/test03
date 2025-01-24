@@ -136,8 +136,8 @@ certifications:
         - name: Responsible Person
           start: 2023
           end: 
-          organization: General Program of the National Natural Science Foundation of China (530,000 RMB)
-          credentialid: 
+          organization: General Program of the National Natural Science Foundation of China 
+          credentialid: 530,000 RMB
           credentialurl: 
           credentialname: 
           details: |
@@ -147,8 +147,8 @@ certifications:
         - name: Responsible Person
           start: 2020
           end:
-          organization: Youth Science Fund Project of the National Natural Science Foundation of China (260,000 RMB)
-          credentialid: 
+          organization: Youth Science Fund Project of the National Natural Science Foundation of China 
+          credentialid: 260,000 RMB
           credentialurl: 
           credentialname: 
           details: |
@@ -159,8 +159,8 @@ certifications:
         - name: Responsible Person of the Collaborative Unit
           start: 2020
           end:
-          organization: Shenzhen Major Science and Technology Projects (1,000,000 RMB)
-          credentialid: 
+          organization: Shenzhen Major Science and Technology Projects
+          credentialid: 1,000,000 RMB
           credentialurl: 
           credentialname: 
           details: |
@@ -170,8 +170,8 @@ certifications:
          - name: Responsible Person of the Collaborative Unit
           start: 2020
           end:
-          organization: Shenzhen Major Science and Technology Projects (1,000,000 RMB)
-          credentialid: 
+          organization: Shenzhen Major Science and Technology Projects
+          credentialid: 1,000,000 RMB
           credentialurl: 
           credentialname: 
           details: |
@@ -181,8 +181,8 @@ certifications:
         - name: Responsible Person of the Collaborative Unit
           start: 2020
           end:
-          organization: Shenzhen Major Science and Technology Projects (1,000,000 RMB)
-          credentialid: 
+          organization: Shenzhen Major Science and Technology Projects
+          credentialid: 1,000,000 RMB
           credentialurl: 
           credentialname: 
           details: |
@@ -192,8 +192,8 @@ certifications:
         - name: Responsible Person of the Collaborative Unit
           start: 2020
           end:
-          organization: Shenzhen Major Science and Technology Projects (1,000,000 RMB)
-          credentialid: 
+          organization: Shenzhen Major Science and Technology Project
+          credentialid: 1,000,000 RMB
           credentialurl: 
           credentialname: 
           details: |
@@ -203,8 +203,8 @@ certifications:
         - name: Responsible Person of the Collaborative Unit
           start: 2020
           end:
-          organization: Shenzhen Major Science and Technology Projects (1,000,000 RMB)
-          credentialid: 
+          organization: Shenzhen Major Science and Technology Projects 
+          credentialid: 1,000,000 RMB
           credentialurl: 
           credentialname: 
           details: |
