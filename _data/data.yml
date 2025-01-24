@@ -17,7 +17,7 @@ sidebar:
     phone: 
     timezone: 
     citizenship:
-    website: "[Homepage in Chinese](https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN)"
+    website: [Google Scholar]
     linkedin: 
     xing: 
     github: ...
@@ -66,7 +66,9 @@ career-profile:
       he has proposed a series of new theories, models, and methods.
 
       
-
+website:
+  name: "[Google Scholar]"
+  url: "https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN"
       
 education:
     title: Education
