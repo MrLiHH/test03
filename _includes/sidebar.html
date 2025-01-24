@@ -15,6 +15,10 @@
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
     {% endif %}
 
+    {% if sidebar.area %}
+    <h3 class="area">{{ sidebar.area }}</h3>
+    {% endif %}
+
   </div><!--//profile-container-->
 
   {% include contact.html %}
