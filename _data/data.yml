@@ -207,11 +207,9 @@ certifications:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      1 published monograph
     papers:
-      - title: The Art of Computer Programming
+      - title: [1] Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. Springer-Higher Education Press, 2022
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
