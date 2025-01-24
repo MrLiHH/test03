@@ -42,10 +42,9 @@ career-profile:
       [【Google Scholar】](https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN) [【Homepage in Chinese】](https://faculty.hitsz.edu.cn/lijinxing)
 
       Focusing on key research areas such as pattern recognition and image processing, 
-      he proposes a series of new theories, models, and method. He has now published a total of 45 articles (37 first works or correspondences: 
-      23 first-region and 14 CCF A) in CAS Region I journals and CCF A conferences, 
-      including 8 TIP, 7 TNNLS, 4 TCYB, 4 TCSVT, 1 TII, 1 TSMC, 5 Inf. Fus. , 1 CVPR, 1 NeurIPS, 4 ACM MM, 2 AAAI, and 1 English monograph. 
-      In addition, he has presided over 17 research projects including the top level of National Nature.
+      he proposes a series of new theories, models, and method. 
+
+      He has published a total of 45 papers in Zone 1 journals of the Chinese Academy of Sciences and CCF A-class conferences (37 as first or corresponding author: 23 in Zone 1 journals and 14 in CCF A conferences), including 8 in IEEE Transactions on Image Processing (TIP), 7 in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 4 in IEEE Transactions on Cybernetics (TCYB), 4 in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 1 in IEEE Transactions on Industrial Informatics (TII), 1 in IEEE Transactions on Systems, Man, and Cybernetics (TSMC), 5 in Information Fusion, 1 in CVPR, 1 in NeurIPS, 4 in ACM Multimedia (ACM MM), 2 in AAAI, and 1 English monograph. In addition, he has led 17 scientific research projects, including a General Program of the National Natural Science Foundation of China.
       
 education:
     title: Education/Experience
@@ -209,18 +208,18 @@ publications:
     intro1: |
       1 published monograph
     papers1:
-      - title: "Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. "
+      - title: "Information Fusion [M]."
         link: "#"
-        authors: Springer-Higher Education Press, 2022
-        conference:
+        authors: Jinxing Li, Bob Zhang, David Zhang. 
+        conference: "Springer-Higher Education Press, 2022"
         
     intro2: |
-      1 published monograph
+      50+ published papers, including 47 papers in CCF A-class conferences or Zone 1 SCI journals of the Chinese Academy of Sciences.
     papers2:
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "From Global to Local: Multi-Patch and Multi-Scale Contrastive Similarity Learning for Unsupervised Defocus Blur Detection [J]."
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Jinxing Li, Beicheng Liang.
+        conference: "IEEE Transactions on Image Processing, 2023. (CAS Zone 1 journals, JCR Q1)"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
