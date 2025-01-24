@@ -147,7 +147,7 @@ certifications:
           start: 2020
           end:
           organization: Youth Science Fund Project of the National Natural Science Foundation of China 
-          credentialid:
+          credentialid: 260,000 RMB
           credentialurl: 
           credentialname: 
           details: |
@@ -157,52 +157,52 @@ certifications:
           start: 2020
           end:
           organization: Shenzhen Major Science and Technology Projects
-          credentialid:
+          credentialid: 10,000,000 RMB
           credentialurl: 
           credentialname: 
           details: |
             Core Technology Research on the Deep Integration of Human-Computer-Thing and Supervision Services in Digital Justice Based on Information Technology Application Innovation
 
-        - name: Responsible Person of the Collaborative Unit
+        - name: Responsible Person
           start: 2020
           end:
-          organization: Shenzhen Major Science and Technology Projects
-          credentialid:
+          organization: Shenzhen Science and Technology Program - Stable Support Plan
+          credentialid: 300,000 RMB
           credentialurl: 
           credentialname: 
           details: |
-            Research on High-Dimensional, Small-Sample Multimodal Classification Using Gaussian Process Latent Variable Models
+            Research on Key Technologies for 24-Hour All-Weather Person Re-Identification
 
         - name: Responsible Person of the Collaborative Unit
           start: 2020
           end:
-          organization: Shenzhen Major Science and Technology Projects
-          credentialid: 
+          organization: Shenzhen Research Startup Funding for High-End Talents
+          credentialid: 3,000,000 RMB
           credentialurl: 
           credentialname: 
           details: |
-            Research on High-Dimensional, Small-Sample Multimodal Classification Using Gaussian Process Latent Variable Models
+            Research on Multimodal Classification in Complex Environments
 
         - name: Responsible Person of the Collaborative Unit
           start: 2020
           end:
-          organization: Shenzhen Major Science and Technology Project
-          credentialid:
+          organization: TaiShen Innovation (Shenzhen) Technology Investment Co., Ltd.
+          credentialid: 1,800,000 RMB
           credentialurl: 
           credentialname: 
           details: |
-            Research on High-Dimensional, Small-Sample Multimodal Classification Using Gaussian Process Latent Variable Models
+            Research on Intelligent Wall-Climbing Inspection Robots for Open-Scene Applications
           
 
         - name: Responsible Person of the Collaborative Unit
           start: 2020
           end:
-          organization: Shenzhen Major Science and Technology Projects 
-          credentialid:
+          organization: HBIS GROUP CO., LTD. 
+          credentialid: 1,500,000 RMB
           credentialurl: 
           credentialname: 
           details: |
-            Research on High-Dimensional, Small-Sample Multimodal Classification Using Gaussian Process Latent Variable Models
+            Research on a Heterogeneous Computing Platform for High-Speed Image Acquisition and Real-Time Processing Based on FPGA+DSP+CPU
 
 
 projects:
