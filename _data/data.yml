@@ -354,7 +354,43 @@ publications:
         authors:
         conference:
 
-   
+    intro3: |
+      Seleted Conference Papers
+    papers3:
+      - title: "Rui Li, Tingting Ren, Jie Wen, Jinxing Li* (Correspoonding Author). Optimal Transport-based Labor-free Text Prompt Modeling for Sketch Re-identification [C]. NeurIPS, 2024. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+      - title: "Rui Li, Yishu Liu, Huafeng Li, Jinxing Li, Guangming Lu. Prototype-Guided Dual-Transformer Reasoning for Video Individual Counting [C]. ACM Multimedia, 2024. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+      - title: "Chuhao Zhou, Jinxing Li* (Correspoonding Author), etc. Video-based Visible-Infrared Person Re-Identification via Style Disturbance Defense and Dual Interaction [C]. ACM Multimedia, 2023. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+        - title: "Xinyu Lin, Jinxing Li* (Correspoonding Author), et al. Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification [C]. CVPR, 2022. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+        - title: "Jinxing Li, Hongwei Yong, Feng Wu, and Mu Li. Online Multi-view Subspace Learning with Mixed Noise [C]. ACM Multimedia, 2020. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+        - title: "Jinxing Li, Bob Zhang, Guangming Lu, and David Zhang. Shared Linear Encoder-based Gaussian Process Latent Variable Model for Visual Classification [C]. ACM Multimedia, 2018. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
+
+        - title: "Jinxing Li, Hongwei Yong, Bob Zhang, Mu Li, Lei Zhang, and David Zhang. A Probabilistic Hierarchical Model for Multi-view and Multi-feature Classification [C]. AAAI, 2018. (CCF A, Oral)"
+        link: "#"
+        authors: 
+        conference:
 
     
 footer: >
