@@ -67,8 +67,10 @@ career-profile:
 
       
 website:
-  name: "[Google Scholar]"
-  url: "https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN"
+  - name: "[Google Scholar]"
+    url: "https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN"
+  - name: "[Homepage in Chinese]"
+    url: "https://faculty.hitsz.edu.cn/lijinxing"
 
       
 education:
