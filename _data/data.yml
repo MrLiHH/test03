@@ -42,7 +42,12 @@ career-profile:
       [【Google Scholar】](https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN) [【Homepage in Chinese】](https://faculty.hitsz.edu.cn/lijinxing)
 
       Focusing on key research areas such as pattern recognition and image processing, 
-      he has proposed a series of new theories, models, and methods.
+      he proposes a series of new theories, models, and methods.
+      
+      He has now published a total of 45 articles (37 first works or correspondences: 
+      23 first-region and 14 CCF A) in CAS Region I journals and CCF Class A conferences, 
+      including 8 TIP, 7 TNNLS, 4 TCYB, 4 TCSVT, 1 TII, 1 TSMC, 5 Inf. Fus. , 1 CVPR, 1 NeurIPS, 4 ACM MM, 2 AAAI, and 1 English monograph. 
+      In addition, he has presided over 17 research projects including the top level of National Nature.
 
       
 
@@ -74,39 +79,26 @@ experiences:
         time: 2021.04 - Present
         company: Computer Science, Harbin Institute of Technology, Shenzhen
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Postdoctoral
+        time: 2019.05 - 2021.02
+        company: Science and Engineering, The Chinese University of Hong Kong, Shenzhen
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Doctor
+        time: 2015.07 - 2019.03
+        company: Computer Science, The Hong Kong Polytechnic University, Hong Kong
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Master
+        time: 2012.09 - 2015.06
+        company: Automation, Chongqing University, Chongqing
+        details: |
+      - role: Bachelor
+        time: 2009.07 - 2012.06
+        company: Automation, Hangzhou Dianzi University, Hangzhou
+        details: |
+      - role: Bachelor
+        time: 2008.09 - 2009.06
+        company: Science, Hangzhou Dianzi University, Hangzhou
+        details: |
 
 certifications:
       title: Education/Experience
