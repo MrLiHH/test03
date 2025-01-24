@@ -14,11 +14,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: lijinxing158@gmail.com
+    phone: 
+    timezone: 
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website: [[Google Scholar]](https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN) [[Homepage in Chinese]](https://faculty.hitsz.edu.cn/lijinxing)
     linkedin: alandoe
     xing: alandoe
     github: jekyll
@@ -66,7 +66,7 @@ career-profile:
       Focusing on key research areas such as pattern recognition and image processing, 
       he has proposed a series of new theories, models, and methods.
 
-      [download this free resume/CV template here]()
+      
 
       
 education:
