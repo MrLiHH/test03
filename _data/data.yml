@@ -95,7 +95,7 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Education/Experience
     info:
       - role: Lead Developer
         time: 2015 - Present
@@ -136,7 +136,7 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
+      title: Education/Experience
       list:
         - name: CV Builder
           start: 2020
