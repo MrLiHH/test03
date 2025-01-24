@@ -50,12 +50,13 @@ career-profile:
       , 5 in Information Fusion, 1 in CVPR, 1 in NeurIPS, 4 in ACM MM, 2 in AAAI. And 1 English monograph has been published. In addition, he has led 17 scientific research projects, including a General Program of the National Natural Science Foundation of China.
       
 education:
-    title: [【Google Scholar】](https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN) [【Homepage in Chinese】](https://faculty.hitsz.edu.cn/lijinxing)
+    title: Website
     info:
       - degree: Associate Professor
         university: Computer Science, Harbin Institute of Technology, Shenzhen
         time: 2021.04 - Present
         details: |
+        [【Google Scholar】](https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN) [【Homepage in Chinese】](https://faculty.hitsz.edu.cn/lijinxing)
       - degree: Postdoc
         university: Science and Engineering, The Chinese University of Hong Kong, Shenzhen
         time: 2019.05 - 2021.02
@@ -219,7 +220,7 @@ publications:
     intro1: |
       1 published monograph
     papers1:
-      - title: "[1] Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. Springer-Higher Education Press, 2022."
+      - title: "Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. Springer-Higher Education Press, 2022."
         link: "#"
         authors: 
         conference: 
@@ -227,15 +228,129 @@ publications:
     intro2: |
       50+ published papers, including 47 papers in CCF A conferences or Q1 SCI journals of the Chinese Academy of Sciences.
     papers2:
-      - title: "From Global to Local: Multi-Patch and Multi-Scale Contrastive Similarity Learning for Unsupervised Defocus Blur Detection [J]."
+      - title: "Jinxing Li, Beicheng Liang. From Global to Local: Multi-Patch and Multi-Scale Contrastive Similarity Learning for Unsupervised Defocus Blur Detection [J]. IEEE Transactions on Image Processing, 2023. (JCR Q1)"
         link: "#"
-        authors: Jinxing Li, Beicheng Liang.
-        conference: "IEEE Transactions on Image Processing, 2023. (JCR Q1)"
+        authors:
+        conference:
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Jinxing Li, Chuhao Zhou, etc. Multi-view Instance Attention Fusion Network for Classification [J]. Information Fusion, 2023. (JCR Q1)"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors:
+        conference:
+
+      - title: "Jinxing Li, Shuhang Gu, Guangming Lu, Yong Xu, David Zhang. Layer-Output Guided Complementary Attention Learning for Image Defocus Blur Detection [J]. IEEE Transactions on Image Processing, 2021. (JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+     - title: "Jinxing Li, Bob Zhang, Guangming Lu, Yong Xu, Feng Wu, David Zhang. Harmonization Shared Auto-Encoder Gaussian Process Latent Variable Model with Relaxed Hamming Distance [J]. IEEE Transactions on Neural Networks and Learning Systems, 2020. ( JCR Q1)"
+        link: "#"
+        authors:
+        conference:
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+
+        - title: ""
+        link: "#"
+        authors:
+        conference:
+        
 
 skills:
     title: Skills &amp; Proficiency
