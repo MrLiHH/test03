@@ -206,16 +206,17 @@ certifications:
 
 publications:
     title: Publications
-    intro: |
+    intro1: |
       1 published monograph
-    papers:
+    papers1:
       - title: "Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. "
         link: "#"
         authors: Springer-Higher Education Press, 2022
         conference:
-    intro: |
+        
+    intro2: |
       1 published monograph
-    papers:
+    papers2:
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
