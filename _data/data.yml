@@ -215,7 +215,7 @@ publications:
         conference:
     intro: |
       1 published monograph
-
+    papers:
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
