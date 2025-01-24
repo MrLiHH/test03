@@ -50,7 +50,7 @@ career-profile:
       , 5 in Information Fusion, 1 in CVPR, 1 in NeurIPS, 4 in ACM MM, 2 in AAAI. And 1 English monograph has been published. In addition, he has led 17 scientific research projects, including a General Program of the National Natural Science Foundation of China.
       
 education:
-    title: Education/Experience
+    title: [【Google Scholar】](https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN) [【Homepage in Chinese】](https://faculty.hitsz.edu.cn/lijinxing)
     info:
       - degree: Associate Professor
         university: Computer Science, Harbin Institute of Technology, Shenzhen
@@ -219,10 +219,10 @@ publications:
     intro1: |
       1 published monograph
     papers1:
-      - title: "Information Fusion [M]."
+      - title: "[1] Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. Springer-Higher Education Press, 2022."
         link: "#"
-        authors: Jinxing Li, Bob Zhang, David Zhang. 
-        conference: "Springer-Higher Education Press, 2022"
+        authors: 
+        conference: 
         
     intro2: |
       50+ published papers, including 47 papers in CCF A conferences or Q1 SCI journals of the Chinese Academy of Sciences.
