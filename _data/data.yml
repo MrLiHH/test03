@@ -218,7 +218,7 @@ certifications:
 publications:
     title: Publications
     intro1: |
-      1 published monograph
+      Book
     papers1:
       - title: "Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. Springer-Higher Education Press, 2022."
         link: "#"
@@ -226,7 +226,7 @@ publications:
         conference: 
         
     intro2: |
-      50+ published papers, including 47 papers in CCF A conferences or Q1 SCI journals of the Chinese Academy of Sciences.
+      Seleted Journal Papers
     papers2:
       - title: "Jinxing Li, Beicheng Liang. From Global to Local: Multi-Patch and Multi-Scale Contrastive Similarity Learning for Unsupervised Defocus Blur Detection [J]. IEEE Transactions on Image Processing, 2023. (JCR Q1)"
         link: "#"
@@ -292,93 +292,108 @@ publications:
         authors:
         conference:
 
-        - title: "Yijing Dai, Yingjian Li, Dongpeng Chen, Jinxing Li* (通讯作者), Guangming Lu. Multimodal Decoupled Distillation Graph Neural Network for Emotion Recognition in Conversation [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2024. (JCR Q1)"
+        - title: "Yijing Dai, Yingjian Li, Dongpeng Chen, Jinxing Li* (Correspoonding Author), Guangming Lu. Multimodal Decoupled Distillation Graph Neural Network for Emotion Recognition in Conversation [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2024. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Yu Gao, Xutao Zheng, Jinxing Li* (通讯作者), et al. Disentanglement Learning With Adaptive Centroid Alignment for Multiple Target Domains Fault Diagnosis [J]. IEEE Transactions on Industrial Informatics, 2024. (JCR Q1)"
+        - title: "Yu Gao, Xutao Zheng, Jinxing Li* (Correspoonding Author), et al. Disentanglement Learning With Adaptive Centroid Alignment for Multiple Target Domains Fault Diagnosis [J]. IEEE Transactions on Industrial Informatics, 2024. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Huafeng Li, Ming Yuan, Jinxing Li* (通讯作者), et al. Focus Affinity Perception and Super-Resolution Embedding for Multifocus Image Fusion [J]. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR Q1)"
+        - title: "Huafeng Li, Ming Yuan, Jinxing Li* (Correspoonding Author), et al. Focus Affinity Perception and Super-Resolution Embedding for Multifocus Image Fusion [J]. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Shuang Li, Fan Li, Jinxing Li* (通讯作者), etc. Logical Relation Inference and Multiview Information Interaction for Domain Adaptation Person Re-Identification [J]. IEEE Transactions on Neural Networks and Learning Systems, 2023. (JCR Q1)"
+        - title: "Shuang Li, Fan Li, Jinxing Li* (Correspoonding Author), etc. Logical Relation Inference and Multiview Information Interaction for Domain Adaptation Person Re-Identification [J]. IEEE Transactions on Neural Networks and Learning Systems, 2023. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Jiayu Xu, Ailiang Lin, Jinxing Li* (通讯作者), Guangming Lu. Text Position-Aware Pixel Aggregation Network with Adaptive Gaussian Threshold: Detecting Text in the Wild [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023. (JCR Q1)"
+        - title: "Jiayu Xu, Ailiang Lin, Jinxing Li* (Correspoonding Author), Guangming Lu. Text Position-Aware Pixel Aggregation Network with Adaptive Gaussian Threshold: Detecting Text in the Wild [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Huafeng Li, Junzhi Zhao, Jinxing Li* (通讯作者), etc. Feature dynamic alignment and refinement for infrared-visible image fusion: Translation robust fusion [J]. Information Fusion, 2023. (JCR Q1)"
+        - title: "Huafeng Li, Junzhi Zhao, Jinxing Li* (Correspoonding Author), etc. Feature dynamic alignment and refinement for infrared-visible image fusion: Translation robust fusion [J]. Information Fusion, 2023. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Mu Li, Kai Zhang, Jinxing Li* (通讯作者), et al. Learning Context-based Nonlocal Entropy Modeling for Image Compression [J]. IEEE Transactions on Neural Networks and Learning Systems, 2021. (JCR Q1, IF: 8.793)"
+        - title: "Mu Li, Kai Zhang, Jinxing Li* (Correspoonding Author), et al. Learning Context-based Nonlocal Entropy Modeling for Image Compression [J]. IEEE Transactions on Neural Networks and Learning Systems, 2021. (JCR Q1, IF: 8.793)"
         link: "#"
         authors:
         conference:
 
-        - title: "Mu Li, Jinxing Li* (通讯作者), et al. End-to-end optimized 360 Image Compression. IEEE Transactions on Image Processing, 2022. (JCR Q1)"
+        - title: "Mu Li, Jinxing Li* (Correspoonding Author), et al. End-to-end optimized 360 Image Compression. IEEE Transactions on Image Processing, 2022. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Qing Cai, Jinxing Li* (通讯作者), et al. TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution [J]. IEEE Transactions on Image Processing, 2022. (JCR Q1)"
+        - title: "Qing Cai, Jinxing Li* (Correspoonding Author), et al. TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution [J]. IEEE Transactions on Image Processing, 2022. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Qing Cai, Yiming Qian, Sanping Zhou, Jinxing Li* (通讯作者), et al. AVLSM: Adaptive Variational Level Set Model for Image Segmentation in the Presence of Severe Intensity Inhomogeneity and High Noise [J]. IEEE Transactions on Image Processing, 2021. (JCR Q1)"
+        - title: "Qing Cai, Yiming Qian, Sanping Zhou, Jinxing Li* (Correspoonding Author), et al. AVLSM: Adaptive Variational Level Set Model for Image Segmentation in the Presence of Severe Intensity Inhomogeneity and High Noise [J]. IEEE Transactions on Image Processing, 2021. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Mengzhao Wang, Huafeng Li, Yafei Zhang, Jinxing Li* (通讯作者), et al. Dual-task Mutual Reinforcing Embedded Joint Video Paragraph Retrieval and Grounding [J]. IEEE Transactions on Multimedia, 2024. (JCR Q1)"
+        - title: "Mengzhao Wang, Huafeng Li, Yafei Zhang, Jinxing Li* (Correspoonding Author), et al. Dual-task Mutual Reinforcing Embedded Joint Video Paragraph Retrieval and Grounding [J]. IEEE Transactions on Multimedia, 2024. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Yu Gao, Zhanpei Zhang, Bingquan Chen, Jinxing Li* (通讯作者), et al. Time-and Frequency-domain Fusion for Source-free Adaptation Fault Diagnosis [J]. Information Fusion, 2025. (JCR Q1)"
+        - title: "Yu Gao, Zhanpei Zhang, Bingquan Chen, Jinxing Li* (Correspoonding Author), et al. Time-and Frequency-domain Fusion for Source-free Adaptation Fault Diagnosis [J]. Information Fusion, 2025. (JCR Q1)"
         link: "#"
         authors:
         conference:
 
-        - title: "Dongming Li, Yingjian Li, Xiao Ma, Jinxing Li* (通讯作者), Guangming Lu. Triple-stream Siamese Segmentation Network for Printed Label Defect Detection [J]. IEEE Transactions on Instrumentation and Measurement, 2024. (JCR Q1)"
+        - title: "Dongming Li, Yingjian Li, Xiao Ma, Jinxing Li* (Correspoonding Author), Guangming Lu. Triple-stream Siamese Segmentation Network for Printed Label Defect Detection [J]. IEEE Transactions on Instrumentation and Measurement, 2024. (JCR Q1)"
         link: "#"
         authors:
         conference:
-        
 
-skills:
-    title: Skills &amp; Proficiency
+    intro3: |
+      Seleted Conference Papers
+    papers3:
+      - title: "Rui Li, Tingting Ren, Jie Wen, Jinxing Li* (Correspoonding Author). Optimal Transport-based Labor-free Text Prompt Modeling for Sketch Re-identification [C]. NeurIPS, 2024. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: "Rui Li, Yishu Liu, Huafeng Li, Jinxing Li, Guangming Lu. Prototype-Guided Dual-Transformer Reasoning for Video Individual Counting [C]. ACM Multimedia, 2024. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
 
-      - name: Javascript & jQuery
-        level: 98%
+      - title: "Chuhao Zhou, Jinxing Li* (Correspoonding Author), etc. Video-based Visible-Infrared Person Re-Identification via Style Disturbance Defense and Dual Interaction [C]. ACM Multimedia, 2023. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
 
-      - name: Angular
-        level: 98%
+        - title: "Xinyu Lin, Jinxing Li* (Correspoonding Author), et al. Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification [C]. CVPR, 2022. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
 
-      - name: HTML5 & CSS
-        level: 95%
+        - title: "Jinxing Li, Hongwei Yong, Feng Wu, and Mu Li. Online Multi-view Subspace Learning with Mixed Noise [C]. ACM Multimedia, 2020. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
 
-      - name: Ruby on Rails
-        level: 85%
+        - title: "Jinxing Li, Bob Zhang, Guangming Lu, and David Zhang. Shared Linear Encoder-based Gaussian Process Latent Variable Model for Visual Classification [C]. ACM Multimedia, 2018. (CCF A)"
+        link: "#"
+        authors: 
+        conference:
 
-      - name: Sketch & Photoshop
-        level: 60%
+        - title: "Jinxing Li, Hongwei Yong, Bob Zhang, Mu Li, Lei Zhang, and David Zhang. A Probabilistic Hierarchical Model for Multi-view and Multi-feature Classification [C]. AAAI, 2018. (CCF A, Oral)"
+        link: "#"
+        authors: 
+        conference:
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Dr. Jinxing Li @ HITSZ
