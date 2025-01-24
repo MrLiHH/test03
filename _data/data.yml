@@ -144,6 +144,7 @@ certifications:
             Research on Intelligent Perception of Multimodal In-vitro Diagnostic Information and Continuous Health Computing
 
             (多模态体外诊察信息智能感知及连续健康计算研究)
+            
         - name: Responsible Person
           start: 2020
           end:
@@ -164,9 +165,9 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Research on High-Dimensional, Small-Sample Multimodal Classification Using Gaussian Process Latent Variable Models
+            Core Technology Research on the Deep Integration of Human-Computer-Thing and Supervision Services in Digital Justice Based on Information Technology Application Innovation
           
-           (基于高斯过程隐变量模型的高维小样本多模态分类问题研究)
+           (基于信创的数字司法人机物与监管服深度融合的核心技术研发)
         - name: Responsible Person of the Collaborative Unit
           start: 2020
           end:
