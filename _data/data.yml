@@ -52,12 +52,8 @@ career-profile:
 
       
 education:
-    title: Education
+    title: Education/Experience
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
       - degree: Associate Professor
         university: Computer Science, Harbin Institute of Technology, Shenzhen
         time: 2021.04 - Present
@@ -113,15 +109,17 @@ experiences:
         details: |
 
 certifications:
-      title: Education/Experience
+      title: Projects
+      intro: >
+         You can list your side projects in this
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Person in Charge
+          start: 2023
+          end: 
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
