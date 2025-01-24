@@ -10,13 +10,13 @@ sidebar:
     # Profile information
     name: Jinxing Li
     tagline: Associate Professor, Doctoral Supervisor
-    area: Harbin Institute of Technology, Shenzhen, China
+    area: 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: lijinxing158@gmail.com or
+    email: lijinxing158@gmail.com
     phone:
-    timezone: 
+    timezone: Harbin Institute of Technology, Shenzhen, China
     citizenship:
     website: 
     linkedin: 
@@ -112,23 +112,27 @@ experiences:
         time: 2021.04 - Present
         company: Computer Science, Harbin Institute of Technology, Shenzhen
         details: |
-      - role: Postdoctoral
+      - role: Postdoc
         time: 2019.05 - 2021.02
         company: Science and Engineering, The Chinese University of Hong Kong, Shenzhen
         details: |
-      - role: Doctor
+       - role: TA
+        time: 2019.03 - 2019.05
+        company: Science and Engineering, The Chinese University of Hong Kong, Shenzhen
+        details: |
+      - role: PhD
         time: 2015.07 - 2019.03
         company: Computer Science, The Hong Kong Polytechnic University, Hong Kong
         details: |
-      - role: Master
+      - role: MSc
         time: 2012.09 - 2015.06
         company: Automation, Chongqing University, Chongqing
         details: |
-      - role: Bachelor
+      - role: BSc
         time: 2009.07 - 2012.06
         company: Automation, Hangzhou Dianzi University, Hangzhou
         details: |
-      - role: Bachelor
+      - role: BSc
         time: 2008.09 - 2009.06
         company: Science, Hangzhou Dianzi University, Hangzhou
         details: |
@@ -232,34 +236,6 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 
 skills:
     title: Skills &amp; Proficiency
