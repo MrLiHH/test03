@@ -213,7 +213,16 @@ certifications:
           details: |
             Research on a Heterogeneous Computing Platform for High-Speed Image Acquisition and Real-Time Processing Based on FPGA+DSP+CPU
 
-
-
+publications:
+    title: Publications
+    intro1: |
+      Book
+    papers1:
+      - title: "Jinxing Li, Bob Zhang, David Zhang. Information Fusion [M]. Springer-Higher Education Press, 2022."
+        link: "#"
+        authors: 
+        conference: 
+        
+    
 footer: >
     Dr. Jinxing Li @ HITSZ
