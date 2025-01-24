@@ -1,6 +1,11 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+website:
+  - name: "Google Scholar"
+    url: "https://github.com/MrLiHH/test03/blob/master/_data/lijinxing.html"
+  - name: "[Homepage in Chinese]"
+    url: "https://faculty.hitsz.edu.cn/lijinxing"
 
 sidebar:
     position: right # position of the sidebar : left or right
@@ -17,7 +22,7 @@ sidebar:
     phone: 
     timezone: 
     citizenship:
-    website: [Google Scholar]
+    website: Google Scholar
     linkedin: 
     xing: 
     github: ...
@@ -66,11 +71,7 @@ career-profile:
       he has proposed a series of new theories, models, and methods.
 
       
-website:
-  - name: "[Google Scholar]"
-    url: "https://github.com/MrLiHH/test03/blob/master/_data/lijinxing.html"
-  - name: "[Homepage in Chinese]"
-    url: "https://faculty.hitsz.edu.cn/lijinxing"
+
 
       
 education:
