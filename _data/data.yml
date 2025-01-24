@@ -2,7 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 website:
-  - name: "Google Scholar"
+  - name: Google Scholar
     url: "https://github.com/MrLiHH/test03/blob/master/_data/lijinxing.html"
   - name: "[Homepage in Chinese]"
     url: "https://faculty.hitsz.edu.cn/lijinxing"
@@ -22,7 +22,7 @@ sidebar:
     phone: 
     timezone: 
     citizenship:
-    website: Google Scholar
+    website: [Google Scholar](https://scholar.google.com.hk/citations?user=i4I4hIEAAAAJ&hl=zh-CN)
     linkedin: 
     xing: 
     github: ...
