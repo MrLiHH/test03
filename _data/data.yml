@@ -130,7 +130,7 @@ experiences:
 certifications:
       title: Projects
       intro: >
-         18 projects was led, including both government-funded (vertical) 
+         18 projects were led, including both government-funded (vertical) 
          and industry-funded (horizontal) projects, with a total funding exceeding 15 million RMB.
       list:
         - name: Responsible Person
@@ -148,7 +148,7 @@ certifications:
           start: 2020
           end:
           organization: Youth Science Fund Project of the National Natural Science Foundation of China 
-          credentialid: 260,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
@@ -160,7 +160,7 @@ certifications:
           start: 2020
           end:
           organization: Shenzhen Major Science and Technology Projects
-          credentialid: 1,000,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
@@ -171,7 +171,7 @@ certifications:
           start: 2020
           end:
           organization: Shenzhen Major Science and Technology Projects
-          credentialid: 1,000,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
@@ -182,7 +182,7 @@ certifications:
           start: 2020
           end:
           organization: Shenzhen Major Science and Technology Projects
-          credentialid: 1,000,000 RMB
+          credentialid: 
           credentialurl: 
           credentialname: 
           details: |
@@ -193,7 +193,7 @@ certifications:
           start: 2020
           end:
           organization: Shenzhen Major Science and Technology Project
-          credentialid: 1,000,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
@@ -204,7 +204,7 @@ certifications:
           start: 2020
           end:
           organization: Shenzhen Major Science and Technology Projects 
-          credentialid: 1,000,000 RMB
+          credentialid:
           credentialurl: 
           credentialname: 
           details: |
