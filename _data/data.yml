@@ -131,15 +131,15 @@ certifications:
       title: Projects
       intro: >
          18 projects led, including both government-funded (vertical) 
-         and industry-funded (horizontal) projects, with a total funding exceeding 15 million ￥.
+         and industry-funded (horizontal) projects, with a total funding exceeding 15 million RMB.
       list:
         - name: Person in Charge
           start: 2023
           end: 
-          organization: 
+          organization: General Program of the National Natural Science Foundation of China
           credentialid: 
           credentialurl: 
-          credentialname: 
+          credentialname: 500,000 RMB
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
