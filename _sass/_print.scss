@@ -12,14 +12,14 @@
         -webkit-filter: greyscale(1);
     }
    .main-wrapper .time {
-       float: right;
+       float: left;
         color: black !important;
         -webkit-print-color-adjust: exact; 
    }
     .sidebar-wrapper {
         position: static;
         float: left;
-        width: 70%;
+        width: 50%;
         -webkit-print-color-adjust: exact; 
     }
 
