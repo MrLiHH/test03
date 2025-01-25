@@ -397,35 +397,35 @@ oss:
     title: Teaching
     intro: >
     contributions:
-      - title: Computer Organization
+      - title: "Computer Organization"
         link: "#"
         tagline: "(2018.05-present)"
     
-      - title: Artificial Intelligence
+      - title: "Artificial Intelligence"
         link: "#"
         tagline: "(2018.03-2018.05)"
 
-      - title: Legal Aspects, Professionalism and Ethics of Computing
+      - title: "Legal Aspects, Professionalism and Ethics of Computing"
         link: "#"
         tagline: "(2018.02-2018.05)"
 
-      - title: E-commerce Fundamentals and Development
+      - title: "E-commerce Fundamentals and Development"
         link: "#"
         tagline: "(2017.09-2018.01)"
 
-      - title: Information Systems Development
+      - title: "Information Systems Development"
         link: "#"
         tagline: "(2016.09-2017.01)"
 
-      - title: Information Security: Technologies and Development
+      - title: "Information Security: Technologies and Development"
         link: "#"
         tagline: "(2016.02-2016.05)"
 
-      - title: Software Testing and Quality Assurance
+      - title: "Software Testing and Quality Assurance"
         link: "#"
         tagline: "(2015.09-2016.01)"
         
-      - title: Computer Hardware Control Technology
+      - title: "Computer Hardware Control Technology"
         link: "#"
         tagline: "(2013.09-2014.01)"
     
