@@ -142,57 +142,57 @@ certifications:
          18 projects were led, including both government-funded (vertical) 
          and industry-funded (horizontal) projects.
       list:
-        - name: Responsible Person
+        - name: Principle Investigator
           start: 2023
           end: 
-          organization: General Program of the National Natural Science Foundation of China 
+          organization: National Nature Science Foundation of China 
           credentialid: 
           credentialurl: 
           credentialname: 
           details: |
-            Research on Intelligent Perception of Multimodal In-vitro Diagnostic Information and Continuous Health Computing
+            Intelligent Perceptron and Continuous Learning for Human Health Detection based on Multi-modal Body-surface Information
             
-        - name: Responsible Person
+        - name: Principle Investigator
           start: 2020
           end:
-          organization: Youth Science Fund Project of the National Natural Science Foundation of China 
+          organization: National Nature Science Foundation of China 
           credentialid:
           credentialurl: 
           credentialname: 
           details: |
-            Research on High-Dimensional, Small-Sample Multimodal Classification Using Gaussian Process Latent Variable Models
+            High-dimensional and Small-sample-size Multi-modal Classification via Gaussian Process Latent Variable Model
 
-        - name: Responsible Person of the Collaborative Unit
-          start: 2020
+        - name: Principle Investigator
+          start:
           end:
-          organization: Shenzhen Major Science and Technology Projects
+          organization: China Postdoctoral Science Foundation
           credentialid:
           credentialurl: 
           credentialname: 
           details: |
-            Core Technology Research on the Deep Integration of Human-Computer-Thing and Supervision Services in Digital Justice Based on Information Technology Application Innovation
+            The Study on Non-invasive Multi-Source Body-Surface Information Fusion
 
-        - name: Responsible Person
+        - name: Principle Investigator
           start: 2020
           end:
-          organization: Shenzhen Science and Technology Program - Stable Support Plan
+          organization: Shenzhen Colleges and Universities Stable Support Program
           credentialid:
           credentialurl: 
           credentialname: 
           details: |
-            Research on Key Technologies for 24-Hour All-Weather Person Re-Identification
+            The Study on Person Re-Identification for 24 Hours
 
-        - name: Responsible Person of the Collaborative Unit
-          start: 2020
+        - name: Principle Investigator
+          start:
           end:
-          organization: Shenzhen Research Startup Funding for High-End Talents
+          organization: China Postdoctoral Science Foundation
           credentialid:
           credentialurl: 
           credentialname: 
           details: |
-            Research on Multimodal Classification in Complex Environments
+            Three Positions and Nine Indicators based Multi-channel Fusion for Pulse Signal Diagnosis
 
-        - name: Responsible Person of the Collaborative Unit
+        - name: Principle Investigator
           start: 2020
           end:
           organization: TaiShen Innovation (Shenzhen) Technology Investment Co., Ltd.
@@ -200,18 +200,18 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Research on Intelligent Wall-Climbing Inspection Robots for Open-Scene Applications
+            The Study on Intelligent Wall-Climbing Inspection Robots for Open-Scene Applications
           
 
-        - name: Responsible Person of the Collaborative Unit
+        - name: Principle Investigator
           start: 2020
           end:
-          organization: HBIS GROUP CO., LTD. 
+          organization: Shenzhen Institute of Artificial Intelligence and Robotics for Society 
           credentialid:
           credentialurl: 
           credentialname: 
           details: |
-            Research on a Heterogeneous Computing Platform for High-Speed Image Acquisition and Real-Time Processing Based on FPGA+DSP+CPU
+            The Study on Semi-supervised Cross-modal Person Re-ID
 
 publications:
     title: Publications
@@ -393,7 +393,41 @@ publications:
         authors: 
         conference:
 
+oss:
+    title: Teaching
+    intro: >
+    contributions:
+      - title: Computer Organization
+        link: "#"
+        tagline: "(2018.05-present)"
+    
+      - title: Artificial Intelligence
+        link: "#"
+        tagline: "(2018.03-2018.05)"
 
+      - title: Legal Aspects, Professionalism and Ethics of Computing
+        link: "#"
+        tagline: "(2018.02-2018.05)"
+
+      - title: E-commerce Fundamentals and Development
+        link: "#"
+        tagline: "(2017.09-2018.01)"
+
+      - title: Information Systems Development
+        link: "#"
+        tagline: "(2016.09-2017.01)"
+
+      - title: Information Security: Technologies and Development
+        link: "#"
+        tagline: "(2016.02-2016.05)"
+
+      - title: Software Testing and Quality Assurance
+        link: "#"
+        tagline: "(2015.09-2016.01)"
+        
+      - title: Computer Hardware Control Technology
+        link: "#"
+        tagline: "(2013.09-2014.01)"
     
 footer: >
     Dr. Jinxing Li @ HITSZ
