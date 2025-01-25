@@ -46,6 +46,10 @@ career-profile:
       and CCF A conferences (37 as first or corresponding author: 23 in Zone 1 journals and 14 
       in CCF A conferences), including 8 in TIP, 7 in TNNLS, 4 in TCYB, 4 in TCSVT, 1 in TII, 1 in TSMC
       , 5 in Information Fusion, 1 in CVPR, 1 in NeurIPS, 4 in ACM MM, 2 in AAAI. And 1 English monograph has been published. In addition, he has led 17 scientific research projects, including a General Program of the National Natural Science Foundation of China.
+
+      [【Research Interests】]()
+      
+      Pattern Recognition; Machine Learning; Deep Learning; Feature Fusion; Hash Learning
       
 education:
     title: Education/Experience
@@ -81,10 +85,10 @@ education:
         details: |
 
 oss:
-    title: Research Interests
+    title: 
     intro: 
     contributions:
-      - title: Pattern Recognition; Machine Learning; Deep Learning; Feature Fusion; Hash Learning
+      - title: 
         link: 
         tagline:
 
@@ -393,9 +397,36 @@ publications:
         authors: 
         conference:
 
+projects:
+    title: Honors & Rewarding
+    assignments:
+      - title: "Overseas High-Caliber Personnel"
+        link: "#"
+        tagline: "(2019-2024)"
+
+      - title: "Shenlong High-level Talent"
+        link: "#"
+        tagline: "(2019-2024)"
+
+      - title: "Guangdong Postdoctoral Talent Introduction Program"
+        link: "#"
+        tagline: 
+
+      - title: "Hong Kong Government Scholarship for PhD Student"
+        link: "#"
+        tagline: "(2015-2018)"
+
+      - title: "Excellent post-graduates, Chongqing University"
+        link: "#"
+        tagline: "2015"
+
+      - title: "Yangtze Power Scholarship"
+        link: "#"
+        tagline: "2014"
+        
+
 oss:
     title: Teaching
-    intro: >
     contributions:
       - title: "Computer Organization"
         link: "#"
